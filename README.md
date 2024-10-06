@@ -14,7 +14,7 @@ This repository showcases the Codathon Dashboard, which tracks the daily progres
 **Placement Coordinator View:** Simplifies the tracking process for placement coordinators to evaluate students' problem-solving abilities and follow their progress.
 
 ## 👉🏻 Objective
-The Codathon Dashboard aims to:
+**The Codathon Dashboard aims to:**
 
   Provide a clear visual representation of students' daily coding test progress.
   
